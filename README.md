@@ -68,7 +68,7 @@
 **Databases:**  
 `PostgreSQL`, `MongoDB`, `MySQL`, `SQL Server`
 
-**Version Control:**
+**Version Control:**  
 `Git`, `GitHub`, `GitHub Projects`
 
 ---
