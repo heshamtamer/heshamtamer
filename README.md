@@ -10,11 +10,10 @@
 
 - 🌍 Based in: Cairo, Egypt  
 - 🎓 BSc in Systems and Biomedical Engineering from Cairo University (GPA: 3.6/4.0)  
-- 👨‍💻 Currently: Exploring new opportunities in Medical AI and HealthTech  
-- 🔬 Interests: Remote Patient Monitoring, Biomedical Signal Processing, Clinical Systems  
+- 👨‍💻 Currently: Exploring new opportunities in Web Development and HealthTech  
+- 🔬 Interests: Web Development, Signal Processing, Clinical Systems  
 - 📫 Reach me at: **heshamtamer249@gmail.com**  
-- 💼 Check out [My Projects](https://github.com/heshamtamer)  
-- 🌟 Always learning, always building  
+- 💼 Check out [My Projects](https://github.com/heshamtamer)
 
 ---
 
